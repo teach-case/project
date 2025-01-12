@@ -1,0 +1,39 @@
+.IdeaIC2019.3/
+.PyCharmCE2018.3/
+.android/
+.atom/
+.bash_history
+.conda/
+.editorProperties
+.fontconfig/
+.gitconfig
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.matplotlib/
+.nuget/
+.tooling/
+.vscode/
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Creative Cloud Files/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+Miniconda3/
+Music/
+NTUSER.DAT*
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Tracing/
+Videos/
+Thumbs.db
+*.ipynb
